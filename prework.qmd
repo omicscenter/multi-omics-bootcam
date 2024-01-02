@@ -90,14 +90,14 @@ BiocManager::install('yaml')
 
 ## Data
 
-The datasets we use can be found here <https://github.com/omicscenter/RforBioinformatics>.
+The datasets we use can be found here <https://github.com/omicscenter/multi-omics-bootcam>.
 
 ## Code
 
-The R scripts used in part 1 and part 2 can be found here <https://github.com/omicscenter/RforBioinformatics>.
+The R scripts used in part 1 and part 2 can be found here <https://github.com/omicscenter/multi-omics-bootcam>.
 
 ## Resources
 
-Lecture notes <https://github.com/omicscenter/RforBioinformatics>
+Lecture notes <https://github.com/omicscenter/multi-omics-bootcam>
 
-Lab notes <https://github.com/omicscenter/RforBioinformatics>
+Lab notes <https://github.com/omicscenter/multi-omics-bootcam>

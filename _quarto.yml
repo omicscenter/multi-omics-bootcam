@@ -49,8 +49,8 @@ website:
        text: Home
      - href: about.qmd
        text: About
-     - href: schedule.qmd
-       text: Schedule
+     # - href: schedule.qmd
+     #   text: Schedule
      - href: prework.qmd
        text: Prework
      - href: setup-guide.qmd

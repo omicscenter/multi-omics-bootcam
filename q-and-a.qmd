@@ -1,42 +1,47 @@
 ---
 title: "Frequently Asked Questions (FAQs)"
-subtitle: "R/Bioconductor for Bioinformatics"
+subtitle: "Multi-Omics BootCamp"
 editor: source
 ---
 
 
 ## FAQs
 
-1.  **Q:** What is the level of proficiency in R programming language required for this course?
+1.  **Q:** Who is the target audience for the workshop?
 
-> **A:** Basic proficiency in R programming language is required for this course. However, the course will cover the basics of R programming language as well, so students who are not familiar with R can also take this course.
+> **A:** The workshop is tailored for undergraduates, postgraduates, and researchers from universities, offering a comprehensive learning experience in multi-omics analysis.
 
-2. **Q:** Is this course suitable for beginners in bioinformatics?
+2. **Q:** How can I confirm my registration?
 
-> **A:** Yes, this course is suitable for beginners in bioinformatics who have a basic understanding of molecular biology and genetics.
-
-3.  **Q:** Do I need to have prior knowledge of statistics for this course?
-
-> **A:** Yes, a basic understanding of statistics and probability theory is required for this course.
-
-4.  **Q:** Can I take this course if I am not from a biological sciences background?
-
-> **A:** Yes, this course can be taken by anyone who wants to learn R/Bioconductor for bioinformatics data analysis, regardless of their background.
+> **A:** Confirmation details are provided in the email you received after registration. Please review this email and contact our support team at [training.chiralbd@gmail.com] for any discrepancies.
 
 
-5.  **Q:** What is the duration of the course?
+3.  **Q:**  Are there any prerequisites for the workshop?
 
-> **A:** The duration of the course may vary depending on the institution offering the course, but typically ranges from several weeks to a few months.
+> **A:** Familiarize yourself with the technical requirements outlined in the communication. If there are additional prerequisites, they will be communicated in advance.
 
 
-6.  **Q:** Is this course available online?
+4.  **Q:** What software do I need to install on my laptop?
 
-> **A:** Yes, this course may be available online, depending on the institution offering the course.
+> **A:** Specific software requirements will be shared with participants in advance of the workshop. Ensure your laptop is ready by installing the recommended tools.
 
-7. **Q:** Can I get a certificate after completing the course?
 
->  **A:** Yes. 
+5.  **Q:**  Is the workshop entirely in person, or will there be online components?
 
-8.  **Q:**  How can I apply the knowledge gained from this course to my research projects?
+> **A:** The workshop is primarily in person. A stable internet connection is recommended for this workshop.
 
->  **A:** The knowledge gained from this course can be applied to your research projects by using R/Bioconductor packages for bioinformatics data analysis. You can apply the techniques and methods learned in this course to your own data and research questions.
+
+6.  **Q:** How can I make payments for the workshop, and what is the deadline?
+
+> **A:** Payment instructions are provided in the confirmation email. Please follow the instructions promptly, and note the deadline to secure your spot.
+
+
+7. **Q:** Can I bring a guest or colleague to the workshop?
+
+>  **A:** The workshop is designed for registered participants only. If a colleague is interested, they should complete the registration process individually.
+
+
+8.  **Q:**  Are there any social events or networking opportunities during the workshop?
+
+>  **A:** Details about any social events or networking opportunities will be shared in the workshop schedule. We encourage active participation to maximize networking possibilities.
+

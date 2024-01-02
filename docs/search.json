@@ -81,21 +81,21 @@
     "href": "prework.html#data",
     "title": "Prework",
     "section": "Data",
-    "text": "Data\nThe datasets we use can be found here https://github.com/omicscenter/RforBioinformatics."
+    "text": "Data\nThe datasets we use can be found here https://github.com/omicscenter/multi-omics-bootcam."
   },
   {
     "objectID": "prework.html#code",
     "href": "prework.html#code",
     "title": "Prework",
     "section": "Code",
-    "text": "Code\nThe R scripts used in part 1 and part 2 can be found here https://github.com/omicscenter/RforBioinformatics."
+    "text": "Code\nThe R scripts used in part 1 and part 2 can be found here https://github.com/omicscenter/multi-omics-bootcam."
   },
   {
     "objectID": "prework.html#resources",
     "href": "prework.html#resources",
     "title": "Prework",
     "section": "Resources",
-    "text": "Resources\nLecture notes https://github.com/omicscenter/RforBioinformatics\nLab notes https://github.com/omicscenter/RforBioinformatics"
+    "text": "Resources\nLecture notes https://github.com/omicscenter/multi-omics-bootcam\nLab notes https://github.com/omicscenter/multi-omics-bootcam"
   },
   {
     "objectID": "resources.html",
@@ -207,7 +207,7 @@
     "href": "q-and-a.html",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "",
-    "text": "Q: What is the level of proficiency in R programming language required for this course?\n\n\nA: Basic proficiency in R programming language is required for this course. However, the course will cover the basics of R programming language as well, so students who are not familiar with R can also take this course.\n\n\nQ: Is this course suitable for beginners in bioinformatics?\n\n\nA: Yes, this course is suitable for beginners in bioinformatics who have a basic understanding of molecular biology and genetics.\n\n\nQ: Do I need to have prior knowledge of statistics for this course?\n\n\nA: Yes, a basic understanding of statistics and probability theory is required for this course.\n\n\nQ: Can I take this course if I am not from a biological sciences background?\n\n\nA: Yes, this course can be taken by anyone who wants to learn R/Bioconductor for bioinformatics data analysis, regardless of their background.\n\n\nQ: What is the duration of the course?\n\n\nA: The duration of the course may vary depending on the institution offering the course, but typically ranges from several weeks to a few months.\n\n\nQ: Is this course available online?\n\n\nA: Yes, this course may be available online, depending on the institution offering the course.\n\n\nQ: Can I get a certificate after completing the course?\n\n\nA: Yes.\n\n\nQ: How can I apply the knowledge gained from this course to my research projects?\n\n\nA: The knowledge gained from this course can be applied to your research projects by using R/Bioconductor packages for bioinformatics data analysis. You can apply the techniques and methods learned in this course to your own data and research questions."
+    "text": "Q: Who is the target audience for the workshop?\n\n\nA: The workshop is tailored for undergraduates, postgraduates, and researchers from universities, offering a comprehensive learning experience in multi-omics analysis.\n\n\nQ: How can I confirm my registration?\n\n\nA: Confirmation details are provided in the email you received after registration. Please review this email and contact our support team at [training.chiralbd@gmail.com] for any discrepancies.\n\n\nQ: Are there any prerequisites for the workshop?\n\n\nA: Familiarize yourself with the technical requirements outlined in the communication. If there are additional prerequisites, they will be communicated in advance.\n\n\nQ: What software do I need to install on my laptop?\n\n\nA: Specific software requirements will be shared with participants in advance of the workshop. Ensure your laptop is ready by installing the recommended tools.\n\n\nQ: Is the workshop entirely in person, or will there be online components?\n\n\nA: The workshop is primarily in person. A stable internet connection is recommended for this workshop.\n\n\nQ: How can I make payments for the workshop, and what is the deadline?\n\n\nA: Payment instructions are provided in the confirmation email. Please follow the instructions promptly, and note the deadline to secure your spot.\n\n\nQ: Can I bring a guest or colleague to the workshop?\n\n\nA: The workshop is designed for registered participants only. If a colleague is interested, they should complete the registration process individually.\n\n\nQ: Are there any social events or networking opportunities during the workshop?\n\n\nA: Details about any social events or networking opportunities will be shared in the workshop schedule. We encourage active participation to maximize networking possibilities."
   },
   {
     "objectID": "about.html#instructor",
@@ -592,7 +592,7 @@
     "href": "q-and-a.html#faqs",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "",
-    "text": "Q: What is the level of proficiency in R programming language required for this course?\n\n\nA: Basic proficiency in R programming language is required for this course. However, the course will cover the basics of R programming language as well, so students who are not familiar with R can also take this course.\n\n\nQ: Is this course suitable for beginners in bioinformatics?\n\n\nA: Yes, this course is suitable for beginners in bioinformatics who have a basic understanding of molecular biology and genetics.\n\n\nQ: Do I need to have prior knowledge of statistics for this course?\n\n\nA: Yes, a basic understanding of statistics and probability theory is required for this course.\n\n\nQ: Can I take this course if I am not from a biological sciences background?\n\n\nA: Yes, this course can be taken by anyone who wants to learn R/Bioconductor for bioinformatics data analysis, regardless of their background.\n\n\nQ: What is the duration of the course?\n\n\nA: The duration of the course may vary depending on the institution offering the course, but typically ranges from several weeks to a few months.\n\n\nQ: Is this course available online?\n\n\nA: Yes, this course may be available online, depending on the institution offering the course.\n\n\nQ: Can I get a certificate after completing the course?\n\n\nA: Yes.\n\n\nQ: How can I apply the knowledge gained from this course to my research projects?\n\n\nA: The knowledge gained from this course can be applied to your research projects by using R/Bioconductor packages for bioinformatics data analysis. You can apply the techniques and methods learned in this course to your own data and research questions."
+    "text": "Q: Who is the target audience for the workshop?\n\n\nA: The workshop is tailored for undergraduates, postgraduates, and researchers from universities, offering a comprehensive learning experience in multi-omics analysis.\n\n\nQ: How can I confirm my registration?\n\n\nA: Confirmation details are provided in the email you received after registration. Please review this email and contact our support team at [training.chiralbd@gmail.com] for any discrepancies.\n\n\nQ: Are there any prerequisites for the workshop?\n\n\nA: Familiarize yourself with the technical requirements outlined in the communication. If there are additional prerequisites, they will be communicated in advance.\n\n\nQ: What software do I need to install on my laptop?\n\n\nA: Specific software requirements will be shared with participants in advance of the workshop. Ensure your laptop is ready by installing the recommended tools.\n\n\nQ: Is the workshop entirely in person, or will there be online components?\n\n\nA: The workshop is primarily in person. A stable internet connection is recommended for this workshop.\n\n\nQ: How can I make payments for the workshop, and what is the deadline?\n\n\nA: Payment instructions are provided in the confirmation email. Please follow the instructions promptly, and note the deadline to secure your spot.\n\n\nQ: Can I bring a guest or colleague to the workshop?\n\n\nA: The workshop is designed for registered participants only. If a colleague is interested, they should complete the registration process individually.\n\n\nQ: Are there any social events or networking opportunities during the workshop?\n\n\nA: Details about any social events or networking opportunities will be shared in the workshop schedule. We encourage active participation to maximize networking possibilities."
   },
   {
     "objectID": "prework.html#packages",
