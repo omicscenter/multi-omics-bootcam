@@ -5,8 +5,6 @@ subtitle: "Integrative Analysis of Multi-Omics Data"
 editor: source
 ---
 
-
-
 ------------------------------------------------------------------------
 🧑 Lead Organizer & Instructor: [Md. Jubayer Hossain](https://hossainlab.github.io/)
 
@@ -58,18 +56,3 @@ The workshop is designed for undergraduates, postgraduates, and researchers from
 
 - **Avoid Multitasking:** To make the most of the workshop, minimize multitasking during sessions and allocate dedicated time for learning.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Instructors
