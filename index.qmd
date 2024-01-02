@@ -5,33 +5,71 @@ subtitle: "Integrative Analysis of Multi-Omics Data"
 editor: source
 ---
 
+
+
 ------------------------------------------------------------------------
 🧑 Lead Organizer & Instructor: [Md. Jubayer Hossain](https://hossainlab.github.io/)
 
-🗓 October 2, 2023 - October 15, 2023 \| 9:00 pm - 11:00pm (Bangladesh Time)
+📝 Start your transformation into a world of multi-omics analysis with our comprehensive workshop, designed specifically for universities in Bangladesh. This extensive two-day program is designed to equip undergraduates, postgraduates, and researchers with the necessary skills and knowledge to confidently navigate the complexity of multi-omics data. By concentrating on practical applications and providing hands-on experience, this workshop is a pivotal learning experience for all participants. If you are interested to host this boot camp at your institution **Register** with [Google Forms](#) 
 
-🏨 Medium - Zoom/Google Meet
+🏨 Medium - Note that this workshop is in-person, so if traveling, make necessary arrangements, and stay informed about any university protocols. For inquiries, contact our support team at [training.chiralbd@gmail.com](#). We look forward to your participation.
 
-💥 **Register** with [Google Forms](https://forms.gle/ke8U9uYxXmtvsgtk7) 
-<!-- **Registration**: *Closed* -->
-
-<!-- 💥 **Registration Fee**: 1020 BDT (for students),1530BDT (for professionals) -->
-
-📝 To join private Telegram group for the course, follow instructions in the email you received after registration.
 ------------------------------------------------------------------------
 
 ## Boot Camp Overview
-
-Biological and biomedical research is increasingly driven by assays that measure multiple ‘omics data types (“multi-omics”), at single cell resolution, and/or with spatial resolution: transcriptome, proteome, genomic variants, epigenetic marks, metabolome, functional assays, imaging.
-
-Joint mathematical-computational modeling, mechanistic and integrated statistical analysis of such data is an urgent need – one of the major analytical challenges scientists face today. How to discover the important underlying patterns, categories or trends, and to arrive at statistically robust conclusions using explainable models of reasoning?
-
-The boot camp’s core objective is to convey conceptual and statistical foundations that underpin existing and emerging integrative multimodal data strategies and practical trade-offs between various methods. It will give participants an overview of the state-of-the-art methods. In practical sessions using real world examples, participants will gain familiarity with software implementations, practical aspects of quality assessment of inputs, outputs and pitfalls, method performance assessments, tuning and model fit interpretation, and relevant open science practices.
+The growing trend in biological and biomedical research is the use of assays that measure various "omics" data types, such as transcriptome, proteome, genomic variants, epigenetic marks, metabolome, and functional assays, at single-cell and/or spatial resolution. Additionally, there is an urgent need for joint statistical and computational modeling, as well as mechanistic and integrated statistical analysis of these data, to discover important underlying patterns, categories, or trends, and to arrive at statistically robust conclusions using explainable models of reasoning. The boot camp aims to provide participants with an overview of the conceptual and statistical foundations that underlie existing and emerging integrative multimodal data strategies as well as practical trade-offs between various methods. Participants will gain hands-on experience with software implementation, quality assessment of inputs and outputs, method performance assessments, tuning, and model fit interpretation, as well as relevant open science practices through practical sessions using real-world examples.
 
 
+## Key Features
+- **In-Person Learning Experience:** Immerse yourself in a dynamic learning environment with hands-on sessions and interactive workshops. Engage with expert instructors and fellow participants in a collaborative setting.
 
-## Audience and Requirements
+- **Tailored for University Communities:** This boot camp is specially crafted for university communities and organizations. To participate, universities are required to register, allowing us to coordinate the schedule and location based on the collective preferences of the participants.
+
+- **Open to Undergraduate and Postgraduate Students:** Whether you're a budding undergraduate researcher or a postgraduate student looking to enhance your analytical skills, this boot camp caters to participants at various academic levels.
+
+- **Holistic Approach to Multi-Omics Data:** Gain a deep understanding of how to integrate genomics, transcriptomics, proteomics, and other omics datasets. Learn cutting-edge techniques to draw meaningful insights from multi-dimensional biological data.
+
+- **Expert Instructors:** Benefit from the expertise of seasoned instructors who specialize in multi-omics analysis. Acquire practical skills and theoretical knowledge that can be applied to real-world research scenarios.
+
+- **Logistics:** Organizers are responsible for covering the travel and meal costs of the instructors, ensuring a seamless and enriching learning experience for everyone involved.
+
+## Audience 
+The workshop is designed for undergraduates, postgraduates, and researchers from universities. Please engage actively in discussions and hands-on activities to make the most of this opportunity.
+
+## Requirements
+- **University Registration:** Interested universities and community organizations are required to register first.
+
+- **Date and Time Coordination:** Once registered, we will work collaboratively to fix the date and time of the boot camp, accommodating the preferences of the participating institutions.
+
+## Technical Requirements
+- **Personal Laptops with Charger:** Participants are required to bring their personal laptops along with the respective chargers. Ensure that your laptop is in good working condition for hands-on sessions during the workshop.
+
+- **Good Internet Connection (University):** Access to a stable and reliable internet connection, preferably from your university network, is crucial for smooth participation in online components of the workshop.Verify and test your internet connection in advance to avoid disruptions during the sessions.
+
+- **Software Installation:** Be prepared to install specific software or tools on your laptop as per the workshop requirements. Details regarding the required software will be shared in advance.
+
+
+## Cautions
+- **Data Backup:** Prior to the workshop, back up any important data on your laptop to prevent potential loss during software installations or other activities.
+
+- **Power Backup:** If available, consider bringing a portable power bank to ensure uninterrupted power supply during the workshop.
+
+- **Privacy Settings:** Be mindful of your privacy settings, especially during interactive sessions. 
+
+- **Avoid Multitasking:** To make the most of the workshop, minimize multitasking during sessions and allocate dedicated time for learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Instructors
-
-## Locations
