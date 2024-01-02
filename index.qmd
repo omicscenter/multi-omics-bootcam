@@ -1,0 +1,37 @@
+---
+pagetitle: "Multi-Omics BootCamp"
+title: "Multi-Omics Boot Camp"
+subtitle: "Integrative Analysis of Multi-Omics Data"
+editor: source
+---
+
+------------------------------------------------------------------------
+🧑 Lead Organizer & Instructor: [Md. Jubayer Hossain](https://hossainlab.github.io/)
+
+🗓 October 2, 2023 - October 15, 2023 \| 9:00 pm - 11:00pm (Bangladesh Time)
+
+🏨 Medium - Zoom/Google Meet
+
+💥 **Register** with [Google Forms](https://forms.gle/ke8U9uYxXmtvsgtk7) 
+<!-- **Registration**: *Closed* -->
+
+<!-- 💥 **Registration Fee**: 1020 BDT (for students),1530BDT (for professionals) -->
+
+📝 To join private Telegram group for the course, follow instructions in the email you received after registration.
+------------------------------------------------------------------------
+
+## Boot Camp Overview
+
+Biological and biomedical research is increasingly driven by assays that measure multiple ‘omics data types (“multi-omics”), at single cell resolution, and/or with spatial resolution: transcriptome, proteome, genomic variants, epigenetic marks, metabolome, functional assays, imaging.
+
+Joint mathematical-computational modeling, mechanistic and integrated statistical analysis of such data is an urgent need – one of the major analytical challenges scientists face today. How to discover the important underlying patterns, categories or trends, and to arrive at statistically robust conclusions using explainable models of reasoning?
+
+The boot camp’s core objective is to convey conceptual and statistical foundations that underpin existing and emerging integrative multimodal data strategies and practical trade-offs between various methods. It will give participants an overview of the state-of-the-art methods. In practical sessions using real world examples, participants will gain familiarity with software implementations, practical aspects of quality assessment of inputs, outputs and pitfalls, method performance assessments, tuning and model fit interpretation, and relevant open science practices.
+
+
+
+## Audience and Requirements
+
+## Instructors
+
+## Locations
