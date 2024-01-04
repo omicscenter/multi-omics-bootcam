@@ -31,6 +31,45 @@ The growing trend in biological and biomedical research is the use of assays tha
 
 - **Logistics:** Organizers are responsible for covering the travel and meal costs of the instructors, ensuring a seamless and enriching learning experience for everyone involved.
 
+## Workshop Modules¶
+
+:::{.grid}
+::: {.g-col-2}
+![](images/genomics.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Jubayer" width="150"}
+:::
+
+::: {.g-col-10}
+Genomics is the study of genomes, the complete set of an organism's DNA. Genomics research now encompasses functional and structural studies, epigenomics, and metagenomics, and genomic medicine is under active implementation and extension in the health sector.
+:::
+:::
+
+<br/>
+
+:::{.grid}
+::: {.g-col-2}
+![](images/transcriptomics.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Jubayer" width="150"}
+:::
+
+::: {.g-col-10}
+Transcriptomics is the study of transcriptomes, which investigates RNA transcripts within a cell or tissue to determine what genes are being expressed and in what proportion. These RNA transcripts include mRNAs, tRNA, rRNA and other non-coding RNA presents in a cell.
+
+:::
+:::
+
+<br/>
+
+
+:::{.grid}
+::: {.g-col-2}
+![](images/proteomics.png){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Jubayer" width="150"}
+:::
+
+::: {.g-col-10}
+Proteomics is the study of proteins that are produced by an organism. Proteomics allows us to analyse protein compositon and structure, which have great importance in determining their function.
+:::
+:::
+
+
 ## Audience 
 The workshop is designed for undergraduates, postgraduates, and researchers from universities. Please engage actively in discussions and hands-on activities to make the most of this opportunity.
 

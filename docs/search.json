@@ -5717,5 +5717,12 @@
     "title": "Multi-Omics Boot Camp",
     "section": "Cautions",
     "text": "Cautions\n\nData Backup: Prior to the workshop, back up any important data on your laptop to prevent potential loss during software installations or other activities.\nPower Backup: If available, consider bringing a portable power bank to ensure uninterrupted power supply during the workshop.\nPrivacy Settings: Be mindful of your privacy settings, especially during interactive sessions.\nAvoid Multitasking: To make the most of the workshop, minimize multitasking during sessions and allocate dedicated time for learning."
+  },
+  {
+    "objectID": "index.html#workshop-modules",
+    "href": "index.html#workshop-modules",
+    "title": "Multi-Omics Boot Camp",
+    "section": "Workshop Modules¶",
+    "text": "Workshop Modules¶\n\n\n\n\n\nGenomics is the study of genomes, the complete set of an organism’s DNA. Genomics research now encompasses functional and structural studies, epigenomics, and metagenomics, and genomic medicine is under active implementation and extension in the health sector.\n\n\n\n\n\n\n\n\nTranscriptomics is the study of transcriptomes, which investigates RNA transcripts within a cell or tissue to determine what genes are being expressed and in what proportion. These RNA transcripts include mRNAs, tRNA, rRNA and other non-coding RNA presents in a cell.\n\n\n\n\n\n\n\n\nProteomics is the study of proteins that are produced by an organism. Proteomics allows us to analyse protein compositon and structure, which have great importance in determining their function."
   }
 ]
