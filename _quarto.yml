@@ -19,7 +19,7 @@ website:
   open-graph: true
   twitter-card:
     creator: "@hossainlab"
-    image: "/images/bioconductor_banner.jpg"
+    image: "/images/social-share.jpg"
 
   page-footer:
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."

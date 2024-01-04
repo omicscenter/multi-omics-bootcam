@@ -96,5 +96,250 @@
     "title": "Team",
     "section": "Technical Associates",
     "text": "Technical Associates\n\nMd. Zabir Ahmed\n\nMd. Zabir Ahmed serves as a Research Assistant at OMICS Center, contributing to the organization’s research endeavors. In this role, he actively engages in scientific investigations, showcasing a dedication to advancing knowledge in his field.\nAs a Research Assistant at OMICS Center, Md. Zabir Ahmed collaborates with fellow researchers, demonstrating a passion for the pursuit of scientific discovery. His role involves contributing to ongoing projects and supporting the mission of OMICS Center.\n\n\nMuhammad Mohtasim Billah Rifat\n\nMuhammad Mohtasim Billah Rifat holds the position of Research Assistant at OMICS Center, where he actively participates in research initiatives. In his role, he demonstrates a commitment to the advancement of scientific knowledge and contributes to the ongoing projects within the research center.\nAs a Research Assistant, Muhammad Mohtasim Billah Rifat collaborates with fellow researchers at OMICS Center, showcasing a keen interest in scientific exploration. His dedication to the field is reflected in his role in supporting and contributing to the research objectives of the organization."
+  },
+  {
+    "objectID": "prework.html",
+    "href": "prework.html",
+    "title": "Prework",
+    "section": "",
+    "text": "Before attending the workshop please have the following installed and configured on your machine.\nInstall the latest release of R, then get the latest version of Bioconductor by starting R and entering the commands.\nif (!require(\"BiocManager\", quietly = TRUE))\n    install.packages(\"BiocManager\")\nBiocManager::install(version = \"3.16\")"
+  },
+  {
+    "objectID": "prework.html#install-bioconductor-packages",
+    "href": "prework.html#install-bioconductor-packages",
+    "title": "Prework",
+    "section": "Install Bioconductor Packages",
+    "text": "Install Bioconductor Packages\n\nif (!require(\"BiocManager\", quietly = TRUE))\n    install.packages(\"BiocManager\")\nBiocManager::install()\n\nInstall specific packages, e.g., “GenomicFeatures” and “AnnotationDbi”, with\n\nBiocManager::install(c(\"GenomicFeatures\", \"AnnotationDbi\"))\n\nThe install() function (in the BiocManager package) has arguments that change its default behavior; type ?install for further help.\nPosit cloud is free of charge for personal users, yet you need to sign up for a new user account and have internet connection."
+  },
+  {
+    "objectID": "prework.html#packages",
+    "href": "prework.html#packages",
+    "title": "Prework",
+    "section": "Packages",
+    "text": "Packages\n\ninstall.packages('BiocManager')\nBiocManager::install('methods')\nBiocManager::install('rmarkdown')\nBiocManager::install('igraph')\nBiocManager::install('org.Hs.eg.db')\nBiocManager::install('RMariaDB')\nBiocManager::install('Rbowtie')\nBiocManager::install('parallel')\nBiocManager::install('QuasR')\nBiocManager::install('BSgenome')\nBiocManager::install('BSgenome.Mmusculus.UCSC.mm10')\nBiocManager::install('BSgenome.Hsapiens.UCSC.hg19')\nBiocManager::install('BSgenome.Hsapiens.UCSC.hg38')\nBiocManager::install('Biostrings')\nBiocManager::install('rtracklayer')\nBiocManager::install('ggplot2')\nBiocManager::install('GenomicRanges')\nBiocManager::install('ShortRead')\nBiocManager::install('Rsubread')\nBiocManager::install('Rsamtools')\nBiocManager::install('Rbowtie2')\nBiocManager::install('stringi')\nBiocManager::install('Rhisat2')\nBiocManager::install('R.utils')\nBiocManager::install('GenomicAlignments')\nBiocManager::install('basecallQC')\nBiocManager::install('TxDb.Mmusculus.UCSC.mm10.knownGene')\nBiocManager::install('TxDb.Hsapiens.UCSC.hg19.knownGene')\nBiocManager::install('Rfastp')\nBiocManager::install('TxDb.Hsapiens.UCSC.hg38.knownGene')\nBiocManager::install('knitr')\nBiocManager::install('testthat')\nBiocManager::install('yaml')"
+  },
+  {
+    "objectID": "prework.html#data",
+    "href": "prework.html#data",
+    "title": "Prework",
+    "section": "Data",
+    "text": "Data\nThe datasets we use can be found here https://github.com/omicscenter/multi-omics-bootcam."
+  },
+  {
+    "objectID": "prework.html#code",
+    "href": "prework.html#code",
+    "title": "Prework",
+    "section": "Code",
+    "text": "Code\nThe R scripts used in part 1 and part 2 can be found here https://github.com/omicscenter/multi-omics-bootcam."
+  },
+  {
+    "objectID": "prework.html#resources",
+    "href": "prework.html#resources",
+    "title": "Prework",
+    "section": "Resources",
+    "text": "Resources\nLecture notes https://github.com/omicscenter/multi-omics-bootcam\nLab notes https://github.com/omicscenter/multi-omics-bootcam"
+  },
+  {
+    "objectID": "setup-guide.html",
+    "href": "setup-guide.html",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "",
+    "text": "R is a powerful analytical language and contains a number of useful packages for analyzing data.\nRStudio is a free and open-source integrated development environment (IDE) for R. RStudio provides comprehensive facilities to R programmers and is highly recommended in this class."
+  },
+  {
+    "objectID": "setup-guide.html#installing-r",
+    "href": "setup-guide.html#installing-r",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Installing R\n",
+    "text": "Installing R\n\nWe recommend installing the most recent version or R – 4.2.3 as of March 18, 2023 If you have had installed R already some time ago, we recommend updating/reinstalling it to the most recent version. Use a link below to launch download of R installers (if the download does not start, a fix may be to copy-paste the below link to your browser):\n\nFor Mac users: https://cran.r-project.org/bin/macosx/\nFor Windows users: https://cran.r-project.org/bin/windows/base/R-4.2.3-win.exe\nFor Ubuntu users: https://cran.r-project.org/bin/linux/ubuntu/\n\nFor other operating systems, or if you prefer to access the download link from the official website, visit http://cran.us.r-project.org and select Download R for Linux, Download R for macOS or Download R for Windows based on which device you have.\nOnce the proper installation package has been selected, run the package and follow the on-screen directions. This installation includes the R language and a graphical user interface (GUI). Rather using the GUI, we recommend installing RStudio - an integrated development environment (IDE) that lets you interact with R with some added benefits."
+  },
+  {
+    "objectID": "setup-guide.html#installing-rstudio",
+    "href": "setup-guide.html#installing-rstudio",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Installing RStudio\n",
+    "text": "Installing RStudio\n\nTo install RStudio, visit https://posit.co/download/rstudio-desktop/. Once on the website, select DOWNLOAD tab (upper left corner), scroll down and click Download under the RStudio Desktop – Free version (1st out of 4 columns), and select the proper installation file for your platform (Windows or Mac).\nWhen you open up RStudio, it should look like this:\n\nClick the top left button to create a new script:\n\nRStudio, should now look like this:\n\nThere are four main windows.\n\nThe console is the lower-left window where you can run lines of code and see the output.\n\nThe script window is the upper-left window where you can edit and write scripts or markdown documents. From the script window, you can run the current line of code in your script (or multiple lines if you highlight multiple rows) by pressing\n\n\nCMD + Return on Mac\n\nCTRL + Enter on Windows\n\n\nThe workspace is the upper-right window where you can manage your data and variables and see previous commands entered (under the history tab).\nThe plots window allows you to see the output of plots. On the other tabs, you can also look at directories, install packages, and look at help files for various R commands.\n\nYou can customize the look of your RStudio IDE in Tools &gt; Global Options...."
+  },
+  {
+    "objectID": "setup-guide.html#r-packages",
+    "href": "setup-guide.html#r-packages",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "\nR Packages",
+    "text": "R Packages\nPackages are the fundamental units of reproducible R code. They are collections of R code that typically share some common purpose. Examples:\n\ndplyr - package of functions for fast data set manipulation (subsetting, summarizing, rearranging, and joining together data sets);\nggplot2 - “R’s famous package for making beautiful graphics”; allows to build multiple-layers, highly customizable plots."
+  },
+  {
+    "objectID": "setup-guide.html#installing-and-loading-r-packages",
+    "href": "setup-guide.html#installing-and-loading-r-packages",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Installing and Loading R Packages",
+    "text": "Installing and Loading R Packages\n\n\nTo install an R package, type in the RStudio console\ninstall.packages(\"replace_with_package_name\")\nand press enter to execute the command.\n\n\nOnce a package is installed, to use its contents in current R session, we run in the RStudio console the command\nlibrary(replace_with_package_name)\n\n\n(Note the difference in presence of the quotation mark in the two above commands.)"
+  },
+  {
+    "objectID": "setup-guide.html#working-with-r-rstudio",
+    "href": "setup-guide.html#working-with-r-rstudio",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Working with R – RStudio",
+    "text": "Working with R – RStudio\nRStudio is an Integrated Development Environment (IDE) for R\n\nIt helps the user effectively use R\nMakes things easier\nIs NOT a dropdown statistical tool (such as Stata)\n\nSee Rcmdr or Radiant\n\n\n\nAll R Studio snapshots are taken from http://ayeimanol-r.net/2013/04/21/289/\n\n\n\n\n\n\n\n\n\n\n[source]"
+  },
+  {
+    "objectID": "setup-guide.html#rstudio",
+    "href": "setup-guide.html#rstudio",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "RStudio",
+    "text": "RStudio\nEasier working with R\n\nSyntax highlighting, code completion, and smart indentation\nEasily manage multiple working directories and projects\n\nMore information\n\nWorkspace browser and data viewer\nPlot history, zooming, and flexible image and file export\nIntegrated R help and documentation\nSearchable command history"
+  },
+  {
+    "objectID": "setup-guide.html#rstudio-1",
+    "href": "setup-guide.html#rstudio-1",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "RStudio",
+    "text": "RStudio"
+  },
+  {
+    "objectID": "setup-guide.html#getting-the-editor",
+    "href": "setup-guide.html#getting-the-editor",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Getting the editor",
+    "text": "Getting the editor"
+  },
+  {
+    "objectID": "setup-guide.html#working-with-r-in-r-studio---2-major-panes",
+    "href": "setup-guide.html#working-with-r-in-r-studio---2-major-panes",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Working with R in R Studio - 2 major panes:",
+    "text": "Working with R in R Studio - 2 major panes:\n\nThe Source/Editor: “Analysis” Script + Interactive Exploration\n\nStatic copy of what you did (reproducibility)\nTop by default\n\n\nThe R Console: “interprets” whatever you type\n\nCalculator\nTry things out interactively, then add to your editor\nBottom by default"
+  },
+  {
+    "objectID": "setup-guide.html#source-editor",
+    "href": "setup-guide.html#source-editor",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Source / Editor",
+    "text": "Source / Editor\n\nWhere files open to\nHave R code and comments in them\nCan highlight and press (CMD+Enter (Mac) or Ctrl+Enter (Windows)) to run the code\n\nIn a .R file (we call a script), code is saved on your disk"
+  },
+  {
+    "objectID": "setup-guide.html#r-console",
+    "href": "setup-guide.html#r-console",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "R Console",
+    "text": "R Console\n\n\n\n\n\n\n\n\n\n\nWhere code is executed (where things happen)\nYou can type here for things interactively\nCode is not saved on your disk"
+  },
+  {
+    "objectID": "setup-guide.html#rstudio-2",
+    "href": "setup-guide.html#rstudio-2",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "RStudio",
+    "text": "RStudio\nSuper useful “cheat sheet”: https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf"
+  },
+  {
+    "objectID": "setup-guide.html#rstudio-layout",
+    "href": "setup-guide.html#rstudio-layout",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "RStudio layout",
+    "text": "RStudio layout"
+  },
+  {
+    "objectID": "setup-guide.html#rstudio-layout-1",
+    "href": "setup-guide.html#rstudio-layout-1",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "RStudio Layout",
+    "text": "RStudio Layout\nIf RStudio doesn’t look the way you want (or like our RStudio), then do:\nRStudio –&gt; Preferences –&gt; Pane Layout"
+  },
+  {
+    "objectID": "setup-guide.html#workspaceenvironment",
+    "href": "setup-guide.html#workspaceenvironment",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Workspace/Environment",
+    "text": "Workspace/Environment"
+  },
+  {
+    "objectID": "setup-guide.html#workspaceenvironment-1",
+    "href": "setup-guide.html#workspaceenvironment-1",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Workspace/Environment",
+    "text": "Workspace/Environment\n\nTells you what objects are in R\nWhat exists in memory/what is loaded?/what did I read in?\n\nHistory\n\nShows previous commands. Good to look at for debugging, but don’t rely on it.\nInstead use RMarkdown!\nAlso type the “up” key in the Console to scroll through previous commands"
+  },
+  {
+    "objectID": "setup-guide.html#other-panes",
+    "href": "setup-guide.html#other-panes",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Other Panes",
+    "text": "Other Panes\n\n\nFiles - shows the files on your computer of the directory you are working in\n\nViewer - can view data or R objects\n\nHelp - shows help of R commands\n\nPlots - pictures and figures\n\nPackages - list of R packages that are loaded in memory"
+  },
+  {
+    "objectID": "setup-guide.html#r-markdown-file",
+    "href": "setup-guide.html#r-markdown-file",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "R Markdown file",
+    "text": "R Markdown file\nR Markdown files (.Rmd) help generate reports that include your code and output. Think of them as fancier scripts.\n\nHelps you describe your code\nAllows you to check the output\nCan create many different file types"
+  },
+  {
+    "objectID": "setup-guide.html#create-an-r-markdown-file",
+    "href": "setup-guide.html#create-an-r-markdown-file",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Create an R Markdown file",
+    "text": "Create an R Markdown file\nGo to File → New File → R Markdown\nCall your file “first_markdown”"
+  },
+  {
+    "objectID": "setup-guide.html#code-chunks",
+    "href": "setup-guide.html#code-chunks",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Code chunks",
+    "text": "Code chunks\nWithin R Markdown files are code “chunks”\nThis is where you can type R code and run it!"
+  },
+  {
+    "objectID": "setup-guide.html#create-chunks",
+    "href": "setup-guide.html#create-chunks",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Create Chunks",
+    "text": "Create Chunks\nTo create a new R code chunk:\nCopy paste an existing chunk in the R Markdown file and replace the code OR\n\nUse the insert code chunk button at the top of RStudio.\n\n\n\n\n\n\n\n\n\n\nSelect R as the language:"
+  },
+  {
+    "objectID": "setup-guide.html#run-previous-chunks-button",
+    "href": "setup-guide.html#run-previous-chunks-button",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Run previous chunks button",
+    "text": "Run previous chunks button\nYou can run all chunks above a specific chunk using this button:"
+  },
+  {
+    "objectID": "setup-guide.html#chunk-settings",
+    "href": "setup-guide.html#chunk-settings",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Chunk settings",
+    "text": "Chunk settings"
+  },
+  {
+    "objectID": "setup-guide.html#chunk-settings-1",
+    "href": "setup-guide.html#chunk-settings-1",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Chunk settings",
+    "text": "Chunk settings\nYou can specify if a chunk will be seen in the report or not."
+  },
+  {
+    "objectID": "setup-guide.html#knit-file-to-html",
+    "href": "setup-guide.html#knit-file-to-html",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Knit file to html",
+    "text": "Knit file to html\nThis will create a report from the R Markdown document!"
+  },
+  {
+    "objectID": "setup-guide.html#useful-r-studio-shortcuts",
+    "href": "setup-guide.html#useful-r-studio-shortcuts",
+    "title": "Setup Guide: Install R and RStudio",
+    "section": "Useful R Studio Shortcuts",
+    "text": "Useful R Studio Shortcuts\n\n\nCtrl + Enter in your script evaluates that line of code\n\nIt’s like copying and pasting the code into the console for it to run.\n\n\n\nCtrl+1 takes you to the script page\n\nCtrl+2 takes you to the console\nhttp://www.rstudio.com/ide/docs/using/keyboard_shortcuts"
+  },
+  {
+    "objectID": "q-and-a.html",
+    "href": "q-and-a.html",
+    "title": "Frequently Asked Questions (FAQs)",
+    "section": "",
+    "text": "Q: Who is the target audience for the workshop?\n\n\nA: The workshop is tailored for undergraduates, postgraduates, and researchers from universities, offering a comprehensive learning experience in multi-omics analysis.\n\n\nQ: How can I confirm my registration?\n\n\nA: Confirmation details are provided in the email you received after registration. Please review this email and contact our support team at [training.chiralbd@gmail.com] for any discrepancies.\n\n\nQ: Are there any prerequisites for the workshop?\n\n\nA: Familiarize yourself with the technical requirements outlined in the communication. If there are additional prerequisites, they will be communicated in advance.\n\n\nQ: What software do I need to install on my laptop?\n\n\nA: Specific software requirements will be shared with participants in advance of the workshop. Ensure your laptop is ready by installing the recommended tools.\n\n\nQ: Is the workshop entirely in person, or will there be online components?\n\n\nA: The workshop is primarily in person. A stable internet connection is recommended for this workshop.\n\n\nQ: How can I make payments for the workshop, and what is the deadline?\n\n\nA: Payment instructions are provided in the confirmation email. Please follow the instructions promptly, and note the deadline to secure your spot.\n\n\nQ: Can I bring a guest or colleague to the workshop?\n\n\nA: The workshop is designed for registered participants only. If a colleague is interested, they should complete the registration process individually.\n\n\nQ: Are there any social events or networking opportunities during the workshop?\n\n\nA: Details about any social events or networking opportunities will be shared in the workshop schedule. We encourage active participation to maximize networking possibilities."
+  },
+  {
+    "objectID": "q-and-a.html#faqs",
+    "href": "q-and-a.html#faqs",
+    "title": "Frequently Asked Questions (FAQs)",
+    "section": "",
+    "text": "Q: Who is the target audience for the workshop?\n\n\nA: The workshop is tailored for undergraduates, postgraduates, and researchers from universities, offering a comprehensive learning experience in multi-omics analysis.\n\n\nQ: How can I confirm my registration?\n\n\nA: Confirmation details are provided in the email you received after registration. Please review this email and contact our support team at [training.chiralbd@gmail.com] for any discrepancies.\n\n\nQ: Are there any prerequisites for the workshop?\n\n\nA: Familiarize yourself with the technical requirements outlined in the communication. If there are additional prerequisites, they will be communicated in advance.\n\n\nQ: What software do I need to install on my laptop?\n\n\nA: Specific software requirements will be shared with participants in advance of the workshop. Ensure your laptop is ready by installing the recommended tools.\n\n\nQ: Is the workshop entirely in person, or will there be online components?\n\n\nA: The workshop is primarily in person. A stable internet connection is recommended for this workshop.\n\n\nQ: How can I make payments for the workshop, and what is the deadline?\n\n\nA: Payment instructions are provided in the confirmation email. Please follow the instructions promptly, and note the deadline to secure your spot.\n\n\nQ: Can I bring a guest or colleague to the workshop?\n\n\nA: The workshop is designed for registered participants only. If a colleague is interested, they should complete the registration process individually.\n\n\nQ: Are there any social events or networking opportunities during the workshop?\n\n\nA: Details about any social events or networking opportunities will be shared in the workshop schedule. We encourage active participation to maximize networking possibilities."
   }
 ]
