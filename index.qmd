@@ -119,7 +119,7 @@ In his leadership role at CHIRAL Bangladesh, Md. Jubayer Hossain continues to dr
 ---
 
 #### Atik Shahriar Sammo
-![](images/jubayer.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Jubayer" width="200"}
+![](images/sammo.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Jubayer" width="200"}
 
 Atik Shahriar Sammo is a dedicated Research Assistant at OMICS Center CHIRAL Bangladesh. Concurrently, he is pursuing postgraduate studies in Microbiology at Jagannath University. Mr. Sammo's commitment to advancing scientific knowledge is evident through his active involvement in research at the intersection of academia and health sciences.
 
@@ -134,8 +134,6 @@ In his pursuit of higher education at Jagannath University, Atik Shahriar Sammo 
 ![](images/wahidul.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Wahidul" width="200"}
 
 
-**Wahidul Islam**
-
 Wahidul Islam is an undergraduate student pursuing a degree in Microbiology at Jagannath University, Dhaka, Bangladesh. He possesses a keen interest in a diverse array of scientific disciplines, including Bioinformatics, Immunology, Cell Biology, Biostatistics, Public Health, and Microbiology.
 
 Currently, Mr. Islam is contributing as a Research Assistant at the OMICS Center at CHIRAL Bangladesh, where he actively engages in scientific research and scholarly endeavors. His academic pursuits and research interests reflect a commitment to advancing knowledge in the fields of Microbiology and related disciplines.
@@ -146,7 +144,6 @@ Currently, Mr. Islam is contributing as a Research Assistant at the OMICS Center
 
 ![](images/muhibullah.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of muhibullah" width="200"} 
 
-**Muhibullah**
 
 Muhibullah is an undergraduate student in the Department of Microbiology at Jagannath University. His research interests encompass health data analysis and bioinformatics, reflecting his commitment to advancing knowledge in these specialized domains.
 
