@@ -47,8 +47,8 @@ website:
     contents:
      - href: index.qmd
        text: Home
-     - href: about.qmd
-       text: About
+     - href: team.qmd
+       text: Team
      # - href: schedule.qmd
      #   text: Schedule
      - href: prework.qmd

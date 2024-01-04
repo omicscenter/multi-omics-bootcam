@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chiraltraining.github.io/gtsummary4publichealth/index.html</loc>
-    <lastmod>2023-09-17T08:13:14.984Z</lastmod>
-  </url>
-  <url>
     <loc>https://omicscenter.github.io/RforBioinformatics/index.html</loc>
-    <lastmod>2024-01-04T07:49:21.914Z</lastmod>
+    <lastmod>2024-01-04T08:02:36.064Z</lastmod>
   </url>
   <url>
-    <loc>https://omicscenter.github.io/RforBioinformatics/q-and-a.html</loc>
-    <lastmod>2024-01-02T10:45:14.120Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omicscenter.github.io/RforBioinformatics/sessions.html</loc>
-    <lastmod>2023-09-17T08:36:27.852Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omicscenter.github.io/RforBioinformatics/about.html</loc>
-    <lastmod>2023-09-17T08:58:41.799Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omicscenter.github.io/RforBioinformatics/setup-guide.html</loc>
-    <lastmod>2024-01-02T10:41:19.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omicscenter.github.io/RforBioinformatics/prework.html</loc>
-    <lastmod>2024-01-02T10:41:09.541Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omicscenter.github.io/RforBioinformatics/schedule.html</loc>
-    <lastmod>2023-09-17T08:48:42.595Z</lastmod>
+    <loc>https://omicscenter.github.io/RforBioinformatics/team.html</loc>
+    <lastmod>2024-01-04T08:02:38.006Z</lastmod>
   </url>
 </urlset>
