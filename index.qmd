@@ -31,7 +31,7 @@ The growing trend in biological and biomedical research is the use of assays tha
 
 - **Logistics:** Organizers are responsible for covering the travel and meal costs of the instructors, ensuring a seamless and enriching learning experience for everyone involved.
 
-# Workshop Modules¶
+## Workshop Modules
 
 ##  Genomics 
 
